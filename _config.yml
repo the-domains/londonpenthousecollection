@@ -1,0 +1,14 @@
+layout_spectrum: 0.5077586
+typography_spectrum: 0.7269499
+color:
+  saturation: 0.1949525
+  lightness: 0.8224059
+  brandStrength: 1
+  brandColors:
+    - '#0D0E0D'
+    - '#ACB2BD'
+    - '#F2E0CE'
+    - '#CF916D'
+    - '#5C3016'
+  rhythmicContrast: 0.7828163
+name: Londonpenthousecollection
